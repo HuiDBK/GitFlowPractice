@@ -26,10 +26,10 @@ def register():
     print('register feature develop finished')
 
 
-
-
-
-
+### 冲突模拟 conflict
+# f_a develop 1
+# f_a develop 2
+# f_a develop 3
 
 # f_b work 1
 # f_b work 2
