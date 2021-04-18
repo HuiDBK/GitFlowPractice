@@ -33,3 +33,5 @@ def register():
 
 # f_b work 1
 # f_b work 2
+
+# f_c work 1
