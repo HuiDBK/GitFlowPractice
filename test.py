@@ -24,3 +24,9 @@ def register():
     print('4、处理信息返回')
     
     print('register feature develop finished')
+
+
+### 冲突模拟 conflict
+# f_a develop 1
+# f_a develop 2
+# f_a develop 3
