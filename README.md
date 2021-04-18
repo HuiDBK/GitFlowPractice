@@ -7,7 +7,7 @@
 
 <br/>
 
-![GitFlow工作流图解](C:\Users\Administrator\Desktop\GitFlowPractice\Images\git-flow最终图.png)
+![GitFlow工作流图解](./Images/git-flow最终图.png)
 
 <br/>
 
