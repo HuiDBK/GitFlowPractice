@@ -9,3 +9,18 @@ GitFlow工作流练习
 # print('3、login three dev')
 
 ### login develop finished
+
+
+### login developing
+def register():
+    """
+    register feature
+    """
+
+    print('1、获取参数')
+    print('2、校验参数')
+    print('3、业务逻辑处理')
+    print('...')
+    print('4、处理信息返回')
+    
+    print('register feature develop finished')
